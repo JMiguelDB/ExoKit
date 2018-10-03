@@ -11,3 +11,5 @@ https://youtu.be/Ek3LDEMAk6I
 https://youtu.be/laE8UnB8Fpg
 
 https://youtu.be/ciyyw6X1DzE
+
+[Contribution guidelines for this project](img/rings.png)
