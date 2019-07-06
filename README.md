@@ -21,4 +21,5 @@ You can see images about the videogames:
 Or see images about the hardware:
 
 [Arm](img/exo-arm.jpeg)
+
 [Hand](img/exo-hand.jpeg)
