@@ -17,3 +17,8 @@ You can see images about the videogames:
 [Rings videogame](img/rings.png)
 
 [Pong videogame](img/pong.png)
+
+Or see images about the hardware:
+
+[Arm](img/exo-arm.jpeg)
+[Hand](img/exo-hand.jpeg)
